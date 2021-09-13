@@ -8,10 +8,12 @@
   <body>
   <p><img src="bikershorts.jpeg" alt="parakeet"></p>
     <p>  WE ARE CARZARD 
-        Spreading mindful movement, inspiring wellness and creating community.
-                  These goals inspire everything we do at CarZard. 
+       
+       
+     <p> Spreading mindful movement, inspiring wellness and creating community.
+      <p> These goals inspire everything we do at CarZard. 
                   
-                  Every CarZard collection starts with fashion, so Alo looks as great as it performs in the studio. 
+                  <p> Every CarZard collection starts with fashion, so Alo looks as great as it performs in the studio. 
                   Celebrities are photographed wearing Alo all the time for a reason: because it’s their daily go-to. 
                   We are always trend forward so CarZard wears great everywhere..</p>
                   
@@ -45,7 +47,8 @@ About
 
 
 
-## Welcome to GitHub Pages
+## CarZard
+
 
 You can use the [editor on GitHub](https://github.com/carolynhazard/carolynhazard.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
