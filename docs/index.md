@@ -1,3 +1,50 @@
+<!doctype html>
+<!DOCTYPE HTML PUBLIC "carolynhazard.github.io"
+   "http://carolynhazard.github.io">
+<html>
+  <head>
+    <title> CarZard Athletics !</title>
+  </head>
+  <body>
+  <p><img src="bikershorts.jpeg" alt="parakeet"></p>
+    <p>  WE ARE CARZARD 
+        Spreading mindful movement, inspiring wellness and creating community.
+                  These goals inspire everything we do at CarZard. 
+                  
+                  Every CarZard collection starts with fashion, so Alo looks as great as it performs in the studio. 
+                  Celebrities are photographed wearing Alo all the time for a reason: because it’s their daily go-to. 
+                  We are always trend forward so CarZard wears great everywhere..</p>
+                  
+        
+ <table border="1" >
+
+ <caption> CarZard Athletics' Products. </caption>
+
+ <tr><td>Fabric</td><td>Manufactuering</td><td>Retail</td></tr>
+
+ <tr><td>Sustainable Fabircs</td><td>Made in America</td><td> A sustainable brand that aims to give women a fasahionable and flexible outfit for any occasion</td></tr>
+
+ <tr><td>Hand picked organic fabrics</td><td>Employing American workers</td><td> Affordable Athleisure</td></tr>
+
+ </table>
+
+  </body>
+</html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/carolynhazard/carolynhazard.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
