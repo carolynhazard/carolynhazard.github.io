@@ -7,13 +7,13 @@
   </head>
   <body>
   <p><img src="bikershorts.jpeg" alt="parakeet"></p>
-    <p>  WE ARE CARZARD 
+     <p> WE ARE CARZARD 
        
        
-     <p> Spreading mindful movement, inspiring wellness and creating community.
-      <p> These goals inspire everything we do at CarZard. 
+      Spreading mindful movement, inspiring wellness and creating community.
+       These goals inspire everything we do at CarZard. 
                   
-                  <p> Every CarZard collection starts with fashion, so Alo looks as great as it performs in the studio. 
+                  Every CarZard collection starts with fashion, so Alo looks as great as it performs in the studio. 
                   Celebrities are photographed wearing Alo all the time for a reason: because it’s their daily go-to. 
                   We are always trend forward so CarZard wears great everywhere..</p>
                   
